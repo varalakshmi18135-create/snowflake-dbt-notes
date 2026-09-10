@@ -1,5 +1,8 @@
 
 
+
+
+
 create or replace database college;
 
 use college;

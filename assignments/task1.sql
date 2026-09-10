@@ -1,8 +1,6 @@
 
 
 
-
-
 --------------------TASK ------
 
 -- Create database   college
@@ -10,7 +8,6 @@
 -- create student table sid name address , marks ,phone
 -- insert 10 records
 -- perform select , delete drop and truncate
-
 
 create or replace database college;
 
@@ -67,3 +64,20 @@ select * from college.vit.student
 select * from college.sgms.student
     union all
 select * from college.mits.student
+;
+
+
+
+    
+
+    
+
+    
+
+    
+
+    
+
+    
+
+
