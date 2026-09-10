@@ -1,5 +1,8 @@
 
 
+
+
+
 ----Create 7 tables and load data need count ------
  
 ALTER TABLE COLLEGE.MITS.STUDENT DROP COLUMN GENDER;
